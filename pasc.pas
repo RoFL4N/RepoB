@@ -1,6 +1,6 @@
 ﻿var a,b:integer;
 begin
 writeln('Enter A and B: ');
-readln(a,b);
+readln(a*2,b);
 writeln('A + B = ',a+b);
 end.
